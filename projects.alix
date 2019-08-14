@@ -1,0 +1,91 @@
+wlib = {
+  git = https://github.com/blancolioni/wlib.git
+  version = 1.0
+}
+
+gcs = {
+  git = https://github.com/blancolioni/gcs.git
+  version = 1.0
+}
+
+marlowe = {
+  git = https://github.com/blancolioni/marlowe.git
+  version = 1.0
+}
+
+tropos = {
+  git = https://github.com/blancolioni/tropos.git
+  version = 1.0
+}
+
+agama = {
+  git = https://github.com/blancolioni/agama.git
+  version = 1.0
+}
+
+alix = {
+  git = https://github.com/blancolioni/alix.git
+  version = 0.1
+}
+
+kit = {
+  git = https://github.com/blancolioni/kit.git
+}
+
+syn = {
+  git = https://github.com/blancolioni/syn.git
+}
+
+memor = {
+  git = https://github.com/blancolioni/memor.git
+}
+
+partoe = {
+  git = https://github.com/blancolioni/partoe.git
+}
+
+agama = {
+  git = https://github.com/blancolioni/agama.git
+}
+
+sk = {
+  git = https://github.com/blancolioni/sk.git
+}
+
+leander = {
+  git = https://github.com/blancolioni/leander.git
+}
+
+komnenos = {
+  git = https://github.com/blancolioni/komnenos.git
+}
+
+aquarius = {
+  git = https://github.com/blancolioni/aquarius.git
+}
+
+lith = {
+  git = https://github.com/blancolioni/lith.git
+}
+
+lui = {
+  git = https://github.com/blancolioni/lui.git
+}
+
+aqua = {
+  git = https://github.com/blancolioni/aqua.git
+}
+
+tagatha = {
+  git = https://github.com/blancolioni/tagatha.git
+}
+
+machete = {
+  git = https://github.com/blancolioni/machete.git
+}
+
+hadrian = {
+  git = https://github.com/blancolioni/hadrian.git
+}
+
+
