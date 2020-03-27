@@ -88,4 +88,14 @@ hadrian = {
   git = https://github.com/blancolioni/hadrian.git
 }
 
+nazar = {
+  git = https://github.com/blancolioni/nazar.git
+}
 
+nazargtk = {
+  git = https://github.com/blancolioni/nazargtk.git
+}
+
+nazar_aws = {
+  git = https://github.com/blancolioni/nazaraws.git
+}
