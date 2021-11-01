@@ -99,3 +99,15 @@ nazargtk = {
 nazar_aws = {
   git = https://github.com/blancolioni/nazaraws.git
 }
+
+reiko = {
+  git = https://github.com/blancolioni/reiko.git
+}
+
+tarana = {
+  git = https://github.com/blancolioni/tarana.git
+}
+
+rho = {
+  git = https://github.com/blancolioni/rho.git
+}
