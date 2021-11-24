@@ -111,3 +111,7 @@ tarana = {
 rho = {
   git = https://github.com/blancolioni/rho.git
 }
+
+agora = {
+  git = https://github.com/blancolioni/agora.git
+}
