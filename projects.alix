@@ -115,3 +115,11 @@ rho = {
 agora = {
   git = https://github.com/blancolioni/agora.git
 }
+
+pdp11 = {
+  git = https://github.com/blancolioni/pdp11.git
+}
+
+minerva = {
+  git = https://github.com/blancolioni/minerva.git
+}
